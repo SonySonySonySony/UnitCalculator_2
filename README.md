@@ -47,7 +47,14 @@ src/main/resources/org/example/unitcalculator_2
 ---------------------------------------------------------------
 
 ## Running the Application
-IntelliJ (recommended)
+Install (Recommended)
+- Download the released msi file and launch it
+Zip
+- Download the released zip folder
+  -> Extract PhysicsUnitCalculator.zip
+  -> Open the folder "bin"
+  -> Run "0Run.bat
+IntelliJ
 - Open the project in IntelliJ and run: UnitCalculatorApp.java
 - Maven + JavaFX dependencies load automatically
 
